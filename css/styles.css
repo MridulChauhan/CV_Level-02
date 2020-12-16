@@ -17,10 +17,6 @@ a:hover {
   color: #000000;
 }
 
-.footer-link:hover {
-  color: #eaf6f6;
-}
-
 h1 {
   margin: 50px auto 0 auto;
   font-family: "Sacramento", cursive;
@@ -64,6 +60,10 @@ p {
   background-color: #66bfbf;
   position: relative;
   padding: 50px 0 20px;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
 }
 
 .intro-description {
